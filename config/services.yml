@@ -1,0 +1,6 @@
+services:
+    david63.inactivememb.listener:
+        class: david63\inactivememb\event\listener
+        arguments:
+        tags:
+            - { name: event.listener }
