@@ -20,17 +20,6 @@ use Symfony\Component\EventDispatcher\EventSubscriberInterface;
 class listener implements EventSubscriberInterface
 {
 	/**
-	* Constructor for listener
-	*
-	* @return \david63\inactivememb\event\listener
-	* @access public
-	*/
-	public function __construct()
-	{
-
-	}
-
-	/**
 	* Assign functions defined in this class to event listeners in the core
 	*
 	* @return array
