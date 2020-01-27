@@ -7,9 +7,10 @@ Removes inactive members from the Memberlist.
 [![Latest Stable Version](https://poser.pugx.org/david63/inactivememb/v/stable)](https://packagist.org/packages/david63/inactivememb)
 [![Latest Unstable Version](https://poser.pugx.org/david63/inactivememb/v/unstable)](https://packagist.org/packages/david63/inactivememb)
 [![Total Downloads](https://poser.pugx.org/david63/inactivememb/downloads)](https://packagist.org/packages/david63/inactivememb)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7212ac553ec844bc9bd7a5afa282e9fb)](https://www.codacy.com/manual/david63/inactivememb?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=david63/inactivememb&amp;utm_campaign=Badge_Grade)
 
 ## Minimum Requirements
-* phpBB 3.1.7-RC1
+* phpBB 3.1.7
 * PHP 5.4
 
 ## Install

@@ -23,12 +23,13 @@
 	"extra": {
 		"display-name": "[*] Inactive members",
 		"soft-require": {
-			"phpbb/phpbb": ">=3.1.7-RC1"
+			"phpbb/phpbb": ">=3.1.7"
 		},
 		"version-check": {
         	"host": "version.phpbbdev.space",
-        	"directory": "/3.2",
-        	"filename": "/inactivememb_version_file.json"
+        	"directory": "/versions",
+        	"filename": "inactivememb_version_file.json",
+			"ssl": false
     	}
 	}
 }
