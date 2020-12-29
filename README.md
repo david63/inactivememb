@@ -2,12 +2,16 @@
 
 Removes inactive members from the Memberlist.
 
-[![Build Status](https://travis-ci.com/david63/inactivememb.svg?branch=master)](https://travis-ci.com/david63/inactivememb)
+[![Build Status](https://github.com/david63/inactivememb/workflows/Tests/badge.svg)](https://github.com/phpbb-extensions/david63/inactivememb)
 [![License](https://poser.pugx.org/david63/inactivememb/license)](https://packagist.org/packages/david63/inactivememb)
 [![Latest Stable Version](https://poser.pugx.org/david63/inactivememb/v/stable)](https://packagist.org/packages/david63/inactivememb)
 [![Latest Unstable Version](https://poser.pugx.org/david63/inactivememb/v/unstable)](https://packagist.org/packages/david63/inactivememb)
 [![Total Downloads](https://poser.pugx.org/david63/inactivememb/downloads)](https://packagist.org/packages/david63/inactivememb)
+[![codecov](https://codecov.io/gh/david63/inactivememb/branch/master/graph/badge.svg?token=D2500PgRex)](https://codecov.io/gh/david63/inactivememb)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/7212ac553ec844bc9bd7a5afa282e9fb)](https://www.codacy.com/manual/david63/inactivememb?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=david63/inactivememb&amp;utm_campaign=Badge_Grade)
+
+[![Compatible](https://img.shields.io/badge/compatible-phpBB:3.2.x-blue.svg)](https://shields.io/)
+ [![Compatible](https://img.shields.io/badge/compatible-phpBB:3.3.x-blue.svg)](https://shields.io/)
 
 ## Minimum Requirements
 * phpBB 3.1.7
